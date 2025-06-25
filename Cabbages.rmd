@@ -23,7 +23,7 @@ boxplot(VitC~Cult,data=veggy)
 ``` 
 
 ### Is there a difference in average VitC between c39 and c52 cultivation methods?  
-
+  the bottom of the c52 box is higher than the top of  the c39 box.  
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
