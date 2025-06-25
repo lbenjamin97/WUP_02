@@ -43,6 +43,9 @@ boxplot(VitC~Cult,data=veggy)
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 ## Inferential Results
+the first quantile of the c52 data is 58.The third quantile of c39 data is 54.75.
+
+
 ```{r}
 t.test(VitC~Cult,data=veggy)
 ```
